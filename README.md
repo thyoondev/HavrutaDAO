@@ -333,7 +333,7 @@ window.caver.klay
 
 ## 팀명 : Team Vote
 
-### [Contributors 활동 내역 바로가기](https://github.com/codestates/BEB-05-Team-Vote/graphs/contributors)
+### [Contributors 활동 내역 바로가기](https://github.com/thyoondev/HavrutaDAO/graphs/contributors)
 
 | 직위 | 직무                                | 이름                                      | Github                          |
 | ---- | ----------------------------------- | ----------------------------------------- | ------------------------------- |
